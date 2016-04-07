@@ -1,6 +1,6 @@
 {
     "name": "withouth/component-canonicalizer",
-    "description": "Definition from component cononicalizer",
+    "description": "Definition from component canonicalizer",
     "type": "component",
     "license": "MIT",
     "autoload": {
