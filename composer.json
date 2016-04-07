@@ -1,0 +1,27 @@
+{
+    "name": "withouth/component-canonicalizer",
+    "description": "Definition from component cononicalizer",
+    "type": "component",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Withouth\\Component\\Canonicalizer\\": "src/Withouth/Component/Canonicalizer"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ugo Sans H",
+            "email": "glinel.ugo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=5.4",
+        "behat/transliterator": "^1.1"
+    },
+    "config": {
+        "platform": {
+            "php": "5.4"
+        }
+    }
+}
