@@ -1,6 +1,6 @@
 <?php
 
-namespace Withouth\Component\Canonicalizer;
+namespace Ugosansh\Component\Canonicalizer;
 
 use Behat\Transliterator\Transliterator;
 
